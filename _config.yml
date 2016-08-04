@@ -17,7 +17,7 @@ author:
   url: 'http://edleightondick.com'
 name: select *
 navigation:
-  - name: My Blog
+  - name: Blog
     url: 'http://edleightondick.com'
     type: external
   - name: My Company
