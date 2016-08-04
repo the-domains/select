@@ -12,9 +12,9 @@ color:
     - '#F4F482'
 layout_spectrum: 0.30727777536958456
 author:
-  name: Ed Leighton-Dick
-  email: ed@leightondick.com
-  url: 'http://edleightondick.com'
+  name: ''
+  email: ''
+  url: ''
 name: select *
 navigation:
   - name: Blog
