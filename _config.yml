@@ -1,0 +1,14 @@
+layout_spectrum: 0.30727777536958456
+typography_spectrum: 0.13151913322508335
+color:
+  brandStrength: 0.30906536406837404
+  lightness: 0.23498352291062474
+  saturation: 0.5957954949699342
+  rhythmicContrast: 0.24268333637155592
+  brandColors:
+    - '#595241'
+    - '#B8AE9C'
+    - '#FFFFFF'
+    - '#ACCFCC'
+    - '#8A0917'
+name: select *
