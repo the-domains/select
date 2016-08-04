@@ -20,3 +20,6 @@ navigation:
   - name: My Blog
     url: 'http://edleightondick.com'
     type: external
+  - name: My Company
+    url: 'http://kingfisherdata.com'
+    type: external
