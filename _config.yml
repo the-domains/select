@@ -1,4 +1,3 @@
-layout_spectrum: 0.30727777536958456
 typography_spectrum: 0.13151913322508335
 color:
   brandStrength: 0.30906536406837404
@@ -11,8 +10,13 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-name: select *
+layout_spectrum: 0.30727777536958456
 author:
   name: Ed Leighton-Dick
   email: ed@leightondick.com
   url: 'http://edleightondick.com'
+name: select *
+navigation:
+  - name: My Blog
+    url: 'http://edleightondick.com'
+    type: external
